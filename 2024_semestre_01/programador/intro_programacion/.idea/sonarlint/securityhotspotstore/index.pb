@@ -13,3 +13,5 @@ h
 84.4_estructuras_secuenciales/actividades/ejercicio_02.py,1\e\1e1dbe8148590c65fc601427825c7633483f7b8f
 h
 84.4_estructuras_secuenciales/actividades/ejercicio_03.py,5\3\53c7a76855f3fb6064205a8c3a193e15fee56bbc
+e
+55_estructura_condicional/actividades/ejemplo_clase.py,3\0\302371b53037b3fcd38f164a574c40fdd40a1005
