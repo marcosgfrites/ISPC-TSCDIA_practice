@@ -7,3 +7,9 @@ g
 73.3_variables_constantes_tipos_datos/primer_programa.py,d\6\d6310362781d96d162dbbe99690885f1f42b23b6
 Z
 *4.4_estructuras_secuenciales/desafio_01.py,d\2\d25a9224112d32d96c3591e97c0d8e05184eb966
+h
+84.4_estructuras_secuenciales/actividades/ejercicio_01.py,b\4\b4549b55ac166b508f2a6faedfd975771c896bee
+h
+84.4_estructuras_secuenciales/actividades/ejercicio_02.py,1\e\1e1dbe8148590c65fc601427825c7633483f7b8f
+h
+84.4_estructuras_secuenciales/actividades/ejercicio_03.py,5\3\53c7a76855f3fb6064205a8c3a193e15fee56bbc
