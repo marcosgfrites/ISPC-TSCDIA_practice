@@ -13,7 +13,7 @@ print("El área de la circungerencia es: ", area_circunferencia)
 # # # Ej. de interacción con el usuario - input de texto
 nombre = input("¿Cómo te llamas? ")
 
-print("Hola {nombre}, ¿cómo estás?".format(nombre=nombre))
+print(f'Hola {nombre}, ¿cómo estás?')
 
 # # # Ej. de interacción con el usuario - input de números
 numero1 = int(input("Dame un primer número: "))  # int() convierte el texto a un número entero
