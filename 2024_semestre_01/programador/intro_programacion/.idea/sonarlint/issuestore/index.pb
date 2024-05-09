@@ -15,3 +15,13 @@ h
 84.4_estructuras_secuenciales/actividades/ejercicio_03.py,5\3\53c7a76855f3fb6064205a8c3a193e15fee56bbc
 e
 55_estructura_condicional/actividades/ejemplo_clase.py,3\0\302371b53037b3fcd38f164a574c40fdd40a1005
+e
+56.5_estructuras_iterativas/actividades/consigna_01.py,1\5\1538cb95c289042c566098f11f3a75ed169cfe26
+e
+56.5_estructuras_iterativas/actividades/consigna_02.py,e\7\e73c95840f3a4b7887b8e4ed223c5a245f66e192
+e
+56.5_estructuras_iterativas/actividades/consigna_03.py,3\3\33b9e242762f28afc24aed888df10815f875c7cb
+e
+56.5_estructuras_iterativas/actividades/consigna_04.py,0\5\0519b2d712eef261313d6cb79944a0b526d50bf3
+e
+56.5_estructuras_iterativas/actividades/consigna_05.py,8\4\842f962cb3f2d4e19e2402babc88f4fc119cd02a
